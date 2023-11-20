@@ -32,7 +32,7 @@ public class HashMapExample {
 //			System.out.println(m.getKey()+" "+m.getValue());
 //		}
 		
-		for(String i : map.values()) {  // to print only keys
+		for(String i : map.values()) {  // to print only values
 			System.out.println(i);
 		}
 		
