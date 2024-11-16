@@ -1,0 +1,54 @@
+AWs 300+ services are there
+
+IAM is one of the service (Identity Acess Management)
+
+User
+Group
+Role
+
+User: 2 user are there
+1.Root User :first we have create root user
+2.IAM user  :IAM user do as root
+
+create iam user -->give read only access and select some options
+and download mfa multi factor authentication
+
+------------2nd class---
+grups--create group--addusers--permissions s3 fulol access and iam access
+groupname--create a group
+
+Resource:-users are called as resources (like objects)
+
+s3--Buckets 1,2 3, this we can call it as a resources
+ARN--Amazon resource name:
+
+
+s3--simple storage service--
+file
+media file
+large file we have storage on s3
+
+
+s3 will have buckets -- in buckets we can upload the files
+s3 should be uniq it doesn't take same names
+
+------------------------
+VPC---Virtual Private Cloud
+
+virtual private network
+configure private network
+public network
+
+--vpc-------
+
+subnet:
+
+public subnet  //it is keep it inside vpc
+if it is having direct internet acess is called public subnet
+private subnet:it will not have direct internet access
+
+----------------------
+route tables
+internet gateway
+
+through natgate private internet is connected
