@@ -16,6 +16,7 @@ public class ArrayEx {
     	   System.out.println(a[i]);
        }
 	}
-	hidhuduf
+	hidhudufdvfedav
+	sfdvadfvfe
 
 }
